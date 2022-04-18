@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "full-stack-test-1-4182022": {
+      "hosting": {
+        "full-stack-test-1-web": [
+          "full-stack-test-1-4182022"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "full-stack-test-1-4182022"
+  }
+}
